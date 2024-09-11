@@ -6,7 +6,7 @@ Since November 2022, I have been working as a Frontend Developer, transitioning 
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My Portfolio](http://christiankienle.dev)
-* 🧠  I'm learning Im Still learning SvelteKit, GSAP and Three.js. I also enhance my expertise in Prismic cms.
+* 🧠  I'm learning learning SvelteKit, GSAP and Three.js. I also enhance my expertise in Prismic cms.
 
 <a href="https://www.github.com/chkie" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/chkie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
